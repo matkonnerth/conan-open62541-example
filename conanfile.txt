@@ -1,0 +1,5 @@
+[requires]
+open62541/0.4@matkonnerth/stable
+
+[generators]
+cmake
